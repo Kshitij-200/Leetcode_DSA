@@ -14,7 +14,9 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
 # Simulation
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
