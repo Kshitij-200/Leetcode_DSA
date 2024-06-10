@@ -13,6 +13,7 @@ A repo which contains code of leetcode and other dsa learning.
 # Array
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/1137-height-checker) |
 | [1580-shuffle-the-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2048-build-array-from-permutation) |
@@ -26,3 +27,11 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/1603-running-sum-of-1d-array) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/1137-height-checker) |
