@@ -35,3 +35,14 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/1137-height-checker) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
