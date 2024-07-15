@@ -45,4 +45,16 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
