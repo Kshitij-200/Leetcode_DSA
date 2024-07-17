@@ -41,6 +41,7 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
