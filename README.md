@@ -40,6 +40,7 @@ A repo which contains code of leetcode and other dsa learning.
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
