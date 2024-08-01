@@ -52,6 +52,7 @@ A repo which contains code of leetcode and other dsa learning.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2727-number-of-senior-citizens](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -78,4 +79,8 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2727-number-of-senior-citizens) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
