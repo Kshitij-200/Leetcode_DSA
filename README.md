@@ -52,6 +52,7 @@ A repo which contains code of leetcode and other dsa learning.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [2727-number-of-senior-citizens](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A repo which contains code of leetcode and other dsa learning.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
