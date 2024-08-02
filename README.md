@@ -50,6 +50,7 @@ A repo which contains code of leetcode and other dsa learning.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0075-sort-colors) |
@@ -83,6 +84,7 @@ A repo which contains code of leetcode and other dsa learning.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Kshitij-200/Leetcode_DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
